@@ -20,7 +20,7 @@ By the end of this lesson, learners will be able to:
 
 ## 1. Start with the problem
 
-<img src="./screen1.png" alt="Git history showing vague commit messages" width="40%">
+![Git history showing vague commit messages](./screen1.png)
 
 ### Script
 
@@ -38,7 +38,7 @@ So the goal isn't just to make a commit. **It's to make the commit history usefu
 
 ## 2. Understand the commit message
 
-<img src="./screen2.png" alt="How a commit message describes a code change" width="40%">
+![How a commit message describes a code change](./screen2.png)
 
 ### Script
 
@@ -58,7 +58,7 @@ You don't need to describe every line of code. You just need to give the change 
 
 ## 3. What makes a good commit message?
 
-<img src="./screen3.png" alt="Anatomy of a conventional commit message" width="40%">
+![Anatomy of a conventional commit message](./screen3.png)
 
 ### Script
 
