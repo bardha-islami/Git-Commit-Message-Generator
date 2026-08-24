@@ -29,7 +29,7 @@ You open the Git history and find commits called `fix stuff`, `update`, or just 
 
 You know something happened, but you don't really know what.
 
-That's a problem because your Git history isn't just a record of changes. It's also a source of context for everyone working on the project — including you when you come back to the code months later.
+That's a problem because your Git history isn't just a record of changes. It's also a source of context for everyone working on the project, including you when you come back to the code months later.
 
 So the goal isn't just to make a commit. **It's to make the commit history useful.**"
 
