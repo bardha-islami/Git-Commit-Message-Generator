@@ -38,7 +38,7 @@ So the goal isn't just to make a commit. **It's to make the commit history usefu
 
 ## 2. Understand the commit message
 
-![How a commit message describes a code change](./screen2.png)
+<img src="./screen2.png" alt="How a commit message describes a code change" width="40%">
 
 ### Script
 
@@ -58,7 +58,7 @@ You don't need to describe every line of code. You just need to give the change 
 
 ## 3. What makes a good commit message?
 
-![Anatomy of a conventional commit message](./screen3.png)
+<img src="./screen3.png" alt="Anatomy of a conventional commit message" width="40%">
 
 ### Script
 
@@ -84,7 +84,7 @@ A good commit message should be **short enough to scan and specific enough to un
 
 ## 4. Meet Git Commit Message Generator
 
-![Git Commit Message Generator across the web app, VS Code, and IntelliJ](./gitmsg.png)
+<img src="./gitmsg.png" alt="Git Commit Message Generator across the web app, VS Code, and IntelliJ" width="40%">
 
 ### Script
 
