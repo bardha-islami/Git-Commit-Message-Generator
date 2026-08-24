@@ -1,5 +1,4 @@
 # Git Commit Message Generator
-## 3–5 Minute Learning Experience
 
 **Audience:** Junior developers  
 **Format:** Script + Visual Storyboard  
