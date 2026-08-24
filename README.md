@@ -213,7 +213,7 @@ It's to make getting to a clear, conventional commit message faster and easier.
 
 So the next time you're about to commit, don't settle for `fix stuff`.
 
-Give your change a useful label — and let the generator help you get there."
+Give your change a useful label, and let the generator help you get there."
 
 ---
 ## Try It on Your Next Commit
