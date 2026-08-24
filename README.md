@@ -20,7 +20,7 @@ By the end of this lesson, learners will be able to:
 
 ## 1. Start with the problem
 
-<img src="./screen1.png" alt="Git history showing vague commit messages" width="50%">
+<img src="./screen1.png" alt="Git history showing vague commit messages" width="40%">
 
 ### Script
 
