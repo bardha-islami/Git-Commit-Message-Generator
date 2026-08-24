@@ -88,7 +88,7 @@ A good commit message should be **short enough to scan and specific enough to un
 
 ### Script
 
-"Now let's say you've finished your changes and you're ready to commit — but you're staring at the commit box wondering how to describe everything you just did.
+"Now let's say you've finished your changes and you're ready to commit, but you're staring at the commit box wondering how to describe everything you just did.
 
 This is where Git Commit Message Generator can help.
 
@@ -217,34 +217,35 @@ So the next time you're about to commit, don't settle for `fix stuff`.
 Give your change a useful label — and let the generator help you get there."
 
 ---
-
 ## Try It on Your Next Commit
 
 Before your next commit, take a few seconds to look at the message you're about to save.
 
 Ask yourself:
 
-> **"Could another developer understand what changed just by reading this?"**
+"Could another developer understand what changed just by reading this?"
 
 If the answer is no, improve it.
 
 A useful conventional commit pattern to start with is:
 
-type(scope): description
+`type(scope): description`
+
 
 For example:
 
-fix(auth): validate password before login
+`fix(auth): validate password before login`
+
 
 If you're not sure how to phrase it, use Git Commit Message Generator to get a starting point.
 
 Then remember:
 
-Generate → Review → Edit if needed → Commit
+`Generate → Review → Edit if needed → Commit`
 
 ---
 
-Key Takeaway
+##  Key Takeaway
 
 A good commit message isn't about writing more.
 
@@ -256,6 +257,10 @@ Generate the message. Review it. Make it yours. Then commit.
 
 ---
 
-Instructional Design Approach
+##  Instructional Design Approach
 
-I designed this as a problem-first, demonstration-based lesson so junior developers understand why clear commit messages matter before being introduced to the product. The lesson then moves from the problem, to the fundamentals of a useful commit message, to a guided demonstration, and finally to a simple workflow learners can apply immediately. I intentionally position the AI as a starting point rather than an authority, reinforcing the habit of reviewing generated output while showing how the product reduces friction in an existing developer workflow. The sequence is concise enough for a 3–5 minute learning experience while still giving the learner a practical skill they can use immediately.
+I designed this as a problem-first, demonstration-based lesson so junior developers understand why clear commit messages matter before being introduced to the product. The lesson then moves from the problem, to the fundamentals of a useful commit message, to a guided demonstration, and finally to a simple workflow learners can apply immediately.
+
+I intentionally position the AI as a starting point rather than an authority, reinforcing the habit of reviewing generated output while showing how the product reduces friction in an existing developer workflow.
+
+The sequence is concise enough for a 3–5 minute learning experience while still giving the learner a practical skill they can use immediately.
