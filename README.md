@@ -1,11 +1,5 @@
 # Git Commit Message Generator
 
-### Write clearer commits without starting from scratch
-
-**Audience:** Junior developers  
-**Duration:** 3–5 minutes  
-**Format:** Visual lesson + instructor narration
-
 ---
 
 ## What you'll learn
