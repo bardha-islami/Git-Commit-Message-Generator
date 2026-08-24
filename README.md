@@ -21,7 +21,7 @@ By the end of this lesson, learners will be able to:
 
 ![Git history showing vague commit messages](./screen1.png)
 
-### Script
+### Script:
 
 "Let's start with something you may have already seen in a project.
 
@@ -39,7 +39,7 @@ So the goal isn't just to make a commit. **It's to make the commit history usefu
 
 ![How a commit message describes a code change](./screen2.png)
 
-### Script
+### Script:
 
 "Before we use the tool, let's take a quick look at what a commit message actually does.
 
@@ -59,7 +59,7 @@ You don't need to describe every line of code. You just need to give the change 
 
 ![Anatomy of a conventional commit message](./screen3.png)
 
-### Script
+### Script:
 
 "Here's a simple example:
 
@@ -85,7 +85,7 @@ A good commit message should be **short enough to scan and specific enough to un
 
 ![Git Commit Message Generator across the web app, VS Code, and IntelliJ](./gitmsg.png)
 
-### Script
+### Script:
 
 "Now let's say you've finished your changes and you're ready to commit, but you're staring at the commit box wondering how to describe everything you just did.
 
@@ -105,7 +105,7 @@ Let's see how that works."
 
 ![Git Commit Message Generator analyzing code changes](./screen4.png)
 
-### Script
+### Script:
 
 "Here, the tool has detected changes across the authentication and login code.
 
@@ -121,7 +121,7 @@ We get a first draft based on the work we've actually done, and now we can decid
 
 ![Generated commit message with an explanation](./screen5.png)
 
-### Script
+### Script:
 
 "The generator suggests:
 
@@ -147,7 +147,7 @@ And if you're still learning conventional commits, seeing the reasoning behind t
 
 ![Developer reviewing and editing the generated commit message](./screen6.png)
 
-### Script
+### Script:
 
 "Now here's the most important part.
 
@@ -175,7 +175,7 @@ The tool helps with the first draft. **You provide the judgment.**"
 
 ![Git Commit Message Generator available across different development environments](./screen7.png)
 
-### Script
+### Script:
 
 "Once you know the workflow, you don't have to change the way you develop.
 
@@ -193,7 +193,7 @@ That means writing a better commit message doesn't have to become a separate tas
 
 ![The complete commit message workflow](./screen8.png)
 
-### Script
+### Script:
 
 "Let's put the whole process together.
 
