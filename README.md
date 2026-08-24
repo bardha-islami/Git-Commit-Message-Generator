@@ -81,7 +81,7 @@ A good commit message should be **short enough to scan and specific enough to un
 
 ---
 
-## 4. Meet Git Commit Message Generator
+## Meet Git Commit Message Generator
 
 ![Git Commit Message Generator across the web app, VS Code, and IntelliJ](./gitmsg.png)
 
@@ -101,7 +101,7 @@ Let's see how that works."
 
 ---
 
-## 5. Generate a message from your changes
+## 4. Generate a message from your changes
 
 ![Git Commit Message Generator analyzing code changes](./screen4.png)
 
@@ -117,7 +117,7 @@ We get a first draft based on the work we've actually done, and now we can decid
 
 ---
 
-## 6. Understand the suggestion
+## 5. Understand the suggestion
 
 ![Generated commit message with an explanation](./screen5.png)
 
@@ -143,7 +143,7 @@ And if you're still learning conventional commits, seeing the reasoning behind t
 
 ---
 
-## 7. Review before you commit
+## 6. Review before you commit
 
 ![Developer reviewing and editing the generated commit message](./screen6.png)
 
@@ -171,7 +171,7 @@ The tool helps with the first draft. **You provide the judgment.**"
 
 ---
 
-## 8. Use it where you already code
+## 7. Use it where you already code
 
 ![Git Commit Message Generator available across different development environments](./screen7.png)
 
@@ -189,7 +189,7 @@ That means writing a better commit message doesn't have to become a separate tas
 
 ---
 
-## 9. Put it all together
+## 8. Put it all together
 
 ![The complete commit message workflow](./screen8.png)
 
