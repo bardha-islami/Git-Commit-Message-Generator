@@ -17,7 +17,7 @@ By the end of this lesson, learners will be able to:
 
 ---
 
-## 1. Start with the problem
+## 1. The problem
 
 ![Git history showing vague commit messages](./screen1.png)
 
@@ -189,7 +189,7 @@ That means writing a better commit message doesn't have to become a separate tas
 
 ---
 
-## 8. Put it all together
+## 8. The whole process together
 
 ![The complete commit message workflow](./screen8.png)
 
