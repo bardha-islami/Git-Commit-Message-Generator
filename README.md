@@ -84,7 +84,7 @@ A good commit message should be **short enough to scan and specific enough to un
 
 ## 4. Meet Git Commit Message Generator
 
-<img src="./gitmsg.png" alt="Git Commit Message Generator across the web app, VS Code, and IntelliJ" width="40%">
+![Git Commit Message Generator across the web app, VS Code, and IntelliJ](./gitmsg.png)
 
 ### Script
 
