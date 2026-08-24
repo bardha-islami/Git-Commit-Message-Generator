@@ -1,7 +1,3 @@
-You're right. Since the deliverable is “script + visuals,” the heading should consistently say Script, not Narration. I also tightened the wording so it reads like an instructor teaching junior developers rather than a documentation page.
-
-Here is the corrected, complete Markdown:
-
 # Git Commit Message Generator
 ## 3–5 Minute Learning Experience
 
@@ -24,7 +20,7 @@ By the end of this lesson, learners will be able to:
 
 ## 1. Start with the problem
 
-![Git history showing vague commit messages](file:///C:/Users/marig/Downloads/screen1.png)
+![Git history showing vague commit messages](./screen1.png)
 
 ### Script
 
@@ -42,7 +38,7 @@ So the goal isn't just to make a commit. **It's to make the commit history usefu
 
 ## 2. Understand the commit message
 
-![How a commit message describes a code change](file:///C:/Users/marig/Downloads/screen2.png)
+![How a commit message describes a code change](./screen2.png)
 
 ### Script
 
@@ -62,7 +58,7 @@ You don't need to describe every line of code. You just need to give the change 
 
 ## 3. What makes a good commit message?
 
-![Anatomy of a conventional commit message](./file:///C:/Users/marig/Downloads/screen3.png)
+![Anatomy of a conventional commit message](./screen3.png)
 
 ### Script
 
@@ -88,7 +84,7 @@ A good commit message should be **short enough to scan and specific enough to un
 
 ## 4. Meet Git Commit Message Generator
 
-![Git Commit Message Generator across the web app, VS Code, and IntelliJ](file:///C:/Users/marig/Downloads/gitmsg.png)
+![Git Commit Message Generator across the web app, VS Code, and IntelliJ](./gitmsg.png)
 
 ### Script
 
@@ -108,7 +104,7 @@ Let's see how that works."
 
 ## 5. Generate a message from your changes
 
-![Git Commit Message Generator analyzing code changes](file:///C:/Users/marig/Downloads/screen4.png)
+![Git Commit Message Generator analyzing code changes](./screen4.png)
 
 ### Script
 
@@ -124,7 +120,7 @@ We get a first draft based on the work we've actually done, and now we can decid
 
 ## 6. Understand the suggestion
 
-![Generated commit message with an explanation](file:///C:/Users/marig/Downloads/screen5.png)
+![Generated commit message with an explanation](./screen5.png)
 
 ### Script
 
@@ -150,7 +146,7 @@ And if you're still learning conventional commits, seeing the reasoning behind t
 
 ## 7. Review before you commit
 
-![Developer reviewing and editing the generated commit message](file:///C:/Users/marig/Downloads/screen6.png)
+![Developer reviewing and editing the generated commit message](./screen6.png)
 
 ### Script
 
@@ -178,7 +174,7 @@ The tool helps with the first draft. **You provide the judgment.**"
 
 ## 8. Use it where you already code
 
-![Git Commit Message Generator available across different development environments](file:///C:/Users/marig/Downloads/screen7.png)
+![Git Commit Message Generator available across different development environments](./screen7.png)
 
 ### Script
 
@@ -196,7 +192,7 @@ That means writing a better commit message doesn't have to become a separate tas
 
 ## 9. Put it all together
 
-![The complete commit message workflow](file:///C:/Users/marig/Downloads/screen8.png)
+![The complete commit message workflow](./screen8.png)
 
 ### Script
 
