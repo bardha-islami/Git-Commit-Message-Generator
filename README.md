@@ -151,11 +151,9 @@ The generator gives you a starting point, but you make the final decision.
 
 Before committing, ask yourself:
 
-Does this accurately describe my change?
-
-Is the scope correct?
-
-Would another developer understand this message six months from now?
+- Does this accurately describe my change?
+- Is the scope correct?
+- Would another developer understand this message six months from now?
 
 If it's good, keep it.
 
@@ -219,7 +217,6 @@ If the answer is no, improve it.
 
 A useful conventional commit pattern to start with is:
 
-```text
 type(scope): description
 
 
@@ -243,6 +240,8 @@ It's about giving the right amount of context to the person reading your Git his
 Git Commit Message Generator helps you get to that starting point faster, while you stay responsible for the final message.
 
 Generate the message. Review it. Make it yours. Then commit.
+
+---
 
 Instructional Design Approach
 
